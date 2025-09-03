@@ -8,9 +8,7 @@ The documentation in this repository is licensed under [CC BY-SA 4.0](http://cre
 
 ## Chat
 
-We hangout on [Slack](https://ba-st.slack.com/) where we discuss everything related to the ecosystem.
-
-You can request an invite to [gcotelli](https://github.com/gcotelli) , [fortizpenaloza](https://github.com/fortizpenaloza) or any other admin.
+We hangout on [Slack](https://ba-st.slack.com/) where we discuss everything related to the ecosystem. You'll find a link to join at the [FAST website](https://www.fast.org.ar/), or you can request an invite to [gcotelli](https://github.com/gcotelli), [fortizpenaloza](https://github.com/fortizpenaloza) or any other admin.
 
 ## Blog
 
